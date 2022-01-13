@@ -8,4 +8,3 @@ Link to competition here:
 https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/
 
 
-[GMMA 869 Team LA Pump It up Presentation (Final).pdf](https://github.com/hsaripalli/Pump-It-Up/files/7863953/GMMA.869.Team.LA.Pump.It.up.Presentation.Final.pdf)
