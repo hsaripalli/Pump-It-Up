@@ -8,3 +8,8 @@ Link to competition here:
 https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/
 
 
+I have made close to 30 submissions with improvement in every submission. Through continious model imrpovement, I was able to make an improvement in model's classification rate from 73.98% to 82.4% 
+
+![image](https://user-images.githubusercontent.com/45947172/152149677-493f4dc2-610d-4b44-bfa4-fc0a722c90ce.png)
+
+![image](https://user-images.githubusercontent.com/45947172/152149762-fe073dac-b2ae-447c-8a1e-ede362130e92.png)
